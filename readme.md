@@ -71,3 +71,9 @@ return_type commandName_cmd(params) {
 ```bash
 make all
 ```
+
+## Project Output
+
+
+<img width="695" height="116" alt="Screenshot from 2026-01-16 21-29-03" src="https://github.com/user-attachments/assets/64e70e1e-47cd-4ae7-887d-2fca4931921e" />
+
