@@ -1,6 +1,9 @@
 #include <string.h>
 #include "parser.h"
 
+
+#define MAX_TOKENS 64
+
 char** tokenize(char *input){
     static char *tokens[MAX_TOKENS];
     int i = 0;
